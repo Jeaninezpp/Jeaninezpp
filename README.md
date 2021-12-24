@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Trends SVG](https://api.githubtrends.io/Jeaninezpp/svg/avgupta456/langs)](https://githubtrends.io)
+
+
 <!--
 **Jeaninezpp/Jeaninezpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
