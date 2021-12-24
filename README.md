@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Trends SVG](https://api.githubtrends.io/Jeaninezpp/svg/avgupta456/langs)](https://githubtrends.io)
-In 2021, I made 1027 contributions and modified 14,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/Jeaninezpp
-
 <!--
 **Jeaninezpp/Jeaninezpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/Jeaninezpp/svg/avgupta456/langs)](https://githubtrends.io)
+In 2021, I made 1027 contributions and modified 14,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/Jeaninezpp
+
 -->
